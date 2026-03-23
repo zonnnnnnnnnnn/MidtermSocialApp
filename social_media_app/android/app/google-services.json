@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869395772811",
+    "project_id": "gamefeed-a2080",
+    "storage_bucket": "gamefeed-a2080.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869395772811:android:c8b76077ebcd4c5aba2b8e",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEBCGKH8iRXj81jv4kdPjzbQDccE7vCeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
